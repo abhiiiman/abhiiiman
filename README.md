@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijit Mandal</h1>
 <h3 align="center">A Creative - Passionate Frontend & Python Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiiiman&label=Profile%20views&color=0e75b6&style=flat" alt="abhiiiman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiiiman" alt="abhiiiman" /></a> </p>
-
 - 🔭 I’m currently working on **Grade.ai**
 
 - 🌱 I’m currently learning **Frontend Frameworks, Machine Learning**
@@ -25,10 +21,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhijit-mandal-842428220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijit-mandal-842428220" height="30" width="40" /></a>
 <a href="https://instagram.com/_m_abhijit_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_m_abhijit_/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@m_abhijit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@m_abhijit_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/mandalabhijit201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mandalabhijit201" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/abhiiiman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhiiiman/" height="30" width="40" /></a>
-<a href="https://discord.gg/NowWinGamer#5518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NowWinGamer#5518" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@m_abhijit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@m_abhijit_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mandalabhijit201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mandalabhijit201" height="30" width="40" /></a>
+<a href="https://leetcode.com/abhiiiman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhiiiman/" height="30" width="40" /></a>
+<a href="https://discord.gg/Tqcy44NN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NowWinGamer#5518" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
