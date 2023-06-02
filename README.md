@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijit Mandal</h1>
-<h3 align="center">A Creative - Passionate Frontend & Python Developer from India</h3>
+<h3 align="center">A Creative - Passionate Frontend & Python & Java Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiiiman&label=Profile%20views&color=0e75b6&style=flat" alt="abhiiiman" /> </p>
 
