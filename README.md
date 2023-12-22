@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiiiman&label=Profile%20views&color=0e75b6&style=flat" alt="abhiiiman" /> </p>
 
-- 🔭 I’m currently working on **Grade.ai**
+- 🔭 My PortFolio **Abhijit Mandal** [abhiiiman.github.io/Abhijit-Mandal/](https://abhiiiman.github.io/Abhijit-Mandal/)
 
 - 🌱 I’m currently learning **Frontend Frameworks, Machine Learning**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **ML & Image Processing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhiiiman](https://github.com/abhiiiman)
+- 👨‍💻 All of my projects are available at [github.com/abhiiiman](https://github.com/abhiiiman)
 
 - 💬 Ask me about **Python, Java, HTML, CSS, JS, React**
 
